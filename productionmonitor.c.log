@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (productionmonitor.c.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+  MenueFunc.c
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\MenueFunc.c(11,36): warning C4244: 'function': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\MenueFunc.c(74,49): warning C4047: 'function': 'int' differs in levels of indirection from 'double [100]'
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\MenueFunc.c(74,49): warning C4024: 'ToleranceOfTwo': different types for formal and actual parameter 2
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\MenueFunc.c(74,63): warning C4047: 'function': 'double *' differs in levels of indirection from 'int'
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\MenueFunc.c(74,63): warning C4024: 'ToleranceOfTwo': different types for formal and actual parameter 3
+  workingfunc.c
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\workingfunc.c(52,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\productionmonitor.c\workingfunc.c(229,1): warning C4715: 'twoarraycompare': not all control paths return a value
+  productionmonitor.c.vcxproj -> C:\Users\josea\OneDrive - University of Limerick\Desktop\productionmonitor.c\x64\Debug\productionmonitor.exe
